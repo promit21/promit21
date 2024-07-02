@@ -1,4 +1,4 @@
-![Profile Banner](https://postimg.cc/Sj45D1gP)
+![Profile Banner](https://i.postimg.cc/59QV9ZLf/Black-Minimal-Email-Header.png)
 
 ## Hi there 👋, I'm Promit Mondol
 
