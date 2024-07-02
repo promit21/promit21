@@ -1,6 +1,6 @@
-![Profile Banner](https://example.com/banner-image.png)
+![Profile Banner](https://postimg.cc/Sj45D1gP/banner-image.png)
 
-## Hi there 👋, I'm [Your Name]
+## Hi there 👋, I'm Promit Mondol
 
 ![Profile Views](https://komarev.com/ghpvc/?username=promit21&style=flat-square)
 
