@@ -2,14 +2,14 @@
 
 ## Hi there 👋, I'm [Your Name]
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=promit21&style=flat-square)
 
 ### About Me
 I'm a passionate developer with a knack for solving complex problems and building efficient solutions. With a background in [Your Field], I have honed my skills in various programming languages and technologies. I love to collaborate on open-source projects and share my knowledge with the community.
 
 ### GitHub Stats
-![Commit Count](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Commit Count](https://github-readme-streak-stats.herokuapp.com/?user=promit21&theme=dark)
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=promit21&layout=compact&theme=dark)
 
 ### Familiar Tech/Skills
 <div style="display: flex; flex-wrap: wrap;">
@@ -23,5 +23,6 @@ I'm a passionate developer with a knack for solving complex problems and buildin
 </div>
 
 ### Connect with me
-[![LinkedIn](https://www.linkedin.com/in/promit-mondol21/)
-[![Facebook](https://www.facebook.com/promit.mondal.79/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/promit-mondol21)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/promit.mondal.79)
+
