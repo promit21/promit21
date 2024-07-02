@@ -1,11 +1,11 @@
-![Profile Banner](https://postimg.cc/Sj45D1gP/banner-image.png)
+![Profile Banner](https://postimg.cc/Sj45D1gP)
 
 ## Hi there 👋, I'm Promit Mondol
 
 ![Profile Views](https://komarev.com/ghpvc/?username=promit21&style=flat-square)
 
 ### About Me
-I'm a passionate developer with a knack for solving complex problems and building efficient solutions. With a background in [Your Field], I have honed my skills in various programming languages and technologies. I love to collaborate on open-source projects and share my knowledge with the community.
+I'm a Fornt-end developer with a knack for solving complex problems and building efficient solutions. With a background in Computer Science & Engineering, I have honed my skills in various programming languages and technologies. I love to collaborate on open-source projects and share my knowledge with the community.
 
 ### GitHub Stats
 ![Commit Count](https://github-readme-streak-stats.herokuapp.com/?user=promit21&theme=dark)
