@@ -1,4 +1,4 @@
-![Profile Banner](https://i.postimg.cc/59QV9ZLf/Black-Minimal-Email-Header.png)
+![Profile Banner](https://i.ibb.co/TBv43zM/Blue-and-White-Modern-Business-Facebook-Cover.png)
 
 ## Hi there 👋, I'm Promit Mondol
 
